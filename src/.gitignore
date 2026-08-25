@@ -1,7 +1,7 @@
 # Big Data
 Repositorio de prácticas y proyectos desarrollados durante la materia de **Big Data**.
  
- 
+ Cambios en el repositorio se realizan mediante *commits* y se documentan con mensajes descriptivos. Cada proyecto se encuentra en su propia carpeta, con un archivo `README.md` que explica su propósito, estructura y cómo ejecutarlo.
 ## Descripción
 Este repositorio contiene las prácticas, ejercicios y proyectos realizados
 durante el curso. Cada práctica se plantea como un proyecto de datos
