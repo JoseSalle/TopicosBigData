@@ -8,3 +8,12 @@ durante el curso. Cada práctica se plantea como un proyecto de datos
 independiente, con sus propios datos, código, dependencias y entorno de
 ejecución.
 El repositorio permite mantener un registro de la evolución del trabajo
+
+# Entornos virtuales
+.venv/
+venv/
+venv-*/
+venv[0-9]*/
+env/
+__pycache__/
+.ipynb_checkpoints/
